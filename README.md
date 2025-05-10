@@ -3,7 +3,7 @@
 Welcome to the **Guess The Number Game**, a fun and interactive game built using **Streamlit**! 🎮
 
 ## 🚀 About the Game
-This is a simple number guessing game where the computer randomly selects a number between **1 and 100**. Your task is to guess the correct number with hints provided after each attempt.
+This is a simple number guessing game where the computer randomly selects a number between **1 and 100**.  ➡️ Your task is to guess the correct number with hints provided after each attempt.
 
 ## 🌟 Features
 ✅ **Random Number Generation** – The app generates a new number every game session.  
@@ -77,7 +77,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 📝 Author
 **Muskan Irfan Ahmed**  
-💼 [LinkedIn](https://www.linkedin.com/in/muskan-irfan-ahmed/)  
+➡️ [LinkedIn](https://www.linkedin.com/in/muskan-irfan-ahmed/)  
 📧 muskanirfanahmed12@gmail.com  
 
 Happy Coding! 🚀
